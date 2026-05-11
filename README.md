@@ -1,10 +1,15 @@
 # 32-Bit Pipelined MIPS Processor
 
+![Architecture](https://img.shields.io/badge/Architecture-MIPS%2032--bit-blue?style=for-the-badge&logo=buffer&logoColor=white)
+![Simulator](https://img.shields.io/badge/Simulator-Logisim-orange?style=for-the-badge&logo=probot&logoColor=white)
+![Pipeline](https://img.shields.io/badge/Pipeline-5%20Stage-green?style=for-the-badge&logo=githubactions&logoColor=white)
+![Hazard](https://img.shields.io/badge/Hazard%20Handling-Forwarding%20%2B%20Stall-red?style=for-the-badge&logo=dependabot&logoColor=white)
+![University](https://img.shields.io/badge/Fayoum%20University-ECE%20Dept-purple?style=for-the-badge&logo=academia&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed%20%E2%9C%85-brightgreen?style=for-the-badge)
+
 > A fully functional 32-bit RISC processor based on the MIPS architecture, designed and simulated using **Logisim**. Implements both a single-cycle and a 5-stage pipelined datapath with hazard detection, forwarding, and stall logic.
 
 ---
-![Language](https://img.shields.io/badge/Logisim-32bit_MIPS-blue)
-![Pipeline](https://img.shields.io/badge/Pipeline-5_Stage-green)
 
 ## Table of Contents
 
