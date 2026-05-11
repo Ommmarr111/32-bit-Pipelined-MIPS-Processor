@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/27610348/README.md)
 # 32-Bit Pipelined MIPS Processor
 
 > A fully functional 32-bit RISC processor based on the MIPS architecture, designed and simulated using **Logisim**. Implements both a single-cycle and a 5-stage pipelined datapath with hazard detection, forwarding, and stall logic.
 
 ---
+![Language](https://img.shields.io/badge/Logisim-32bit_MIPS-blue)
+![Pipeline](https://img.shields.io/badge/Pipeline-5_Stage-green)
 
 ## Table of Contents
 
